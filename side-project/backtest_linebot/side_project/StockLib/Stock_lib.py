@@ -93,7 +93,7 @@ def draw_kline_picture(month, values, stock_name, buy_sc, sell_sc):
     kline.overlap(buy_sc) #買入點位圖疊加
     kline.overlap(sell_sc) #賣出點位圖疊加
     # 未來有機會會輸出保存為圖片
-     make_snapshot(snapshot, kline.render(), "kline保存圖片.png") 
+    make_snapshot(snapshot, kline.render(), "kline保存圖片.png") 
 
 
 #計算每次交易虧損及獲利
