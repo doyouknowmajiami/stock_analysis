@@ -6,3 +6,4 @@ upload the "github" file
 upload the "side-project" file with linebot
 ## 2022/5/26
 upload the "side-project-final" file, repair the bug of stock name
+upload the "side-project-real-final" file, repair the bug of table-2 
