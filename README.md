@@ -4,3 +4,5 @@ using different strategies to backtesting varient stocks
 upload the "github" file
 ## 2022/5/25
 upload the "side-project" file with linebot
+## 2022/5/26
+upload the "side-project-final" file, repair the bug of stock name
